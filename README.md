@@ -4,7 +4,7 @@ I am Antonio.
 
 Some challenges where I participated:
 
-- [Jobathon of Rviewer][https://www.linkedin.com/posts/rviewer_announcing-the-champions-of-java-jobathon-activity-7095367389856305152-sJQS?utm_source=share&utm_medium=member_desktop].
+- [Jobathon of Rviewer](https://www.linkedin.com/posts/rviewer_announcing-the-champions-of-java-jobathon-activity-7095367389856305152-sJQS?utm_source=share&utm_medium=member_desktop).
 
 <!--
 **ajsobrino700/ajsobrino700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
