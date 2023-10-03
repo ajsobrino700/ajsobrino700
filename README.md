@@ -24,7 +24,6 @@ Some challenges where I participated:
 
 About my current situaation:
 - 🔭 I’m currently working on Izertis and the customer is MasMovil.
-- 👯 I’m looking to collaborate on **vertx**.
 
 <h3 align="left">Languages:</h3>
 <p align="left">
