@@ -58,9 +58,3 @@ About my current situaation:
     <img src="https://raw.githubusercontent.com/kijimaD/maru/main/images/banner/HCL.svg" alt="hcl" width="40" height="40"/>
   </a>
 </p>
-
-<style>
- a {
-     margin:10px
- }
-</style>
